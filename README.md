@@ -1,2 +1,2 @@
 # TFNToken
-ERC223 Token Standard
+Bearer Share Security based on ERC223 Token Standard
