@@ -14,3 +14,7 @@ function safeAdd(uint a, uint b) internal returns (uint) {
   if (a + b < a) { throw; }
   return a + b;
 }
+//
+//
+//Alt. standard contract to increase supply of Token
+https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/token/ERC20/MintableToken.sol
